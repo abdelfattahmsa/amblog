@@ -26,7 +26,7 @@ languages:
           series: series
         menu:
             main:
-                - name: Archive
+                - name: Garden
                   url: archives
                   weight: 5
                 - name: Search
