@@ -26,19 +26,15 @@ languages:
           series: series
         menu:
             main:
-                - name: Garden
-                  url: archives
+                - name: Home
+                  url: https://abdelfattah.site/
                   weight: 5
+                - name: Garden
+                  url: garden
+                  weight: 10
                 - name: Search
                   url: search/
-                  weight: 10
-                - name: Tags
-                  url: tags/
-                  weight: 10
-                - name: WiKi
-                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-                - name: Discord
-                  url: https://discord.gg/ahpmTvhVmp
+                  weight: 15
 outputs:
     home:
         - HTML
