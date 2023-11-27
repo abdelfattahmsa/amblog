@@ -1,14 +1,7 @@
 baseURL = 'http://hugo-quickstart-template.netlify.com'
-languageCode = 'en-us'
 title = 'Abdelfattahs Digital Garden'
 theme = 'PaperMod'
-params:
-    homeInfoParams:
-        Title: Hi there wave
-        Content: Can be Info, links, about...
-
-    socialIcons: # optional
-        - name: "<platform>"
-            url: "<link>"
-        - name: "<platform 2>"
-            url: "<link2>"
+Displays a Scroll-to-Top button in right-bottom corner
+languages =
+    en =
+        languageName = 'English'
