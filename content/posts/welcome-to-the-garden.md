@@ -6,5 +6,7 @@ description: "A welcome message to all readers."
 tags: ["Misc."]
 ShowToc: false
 ShowBreadCrumbs: true
+ShowReadingTime: true
+
 ---
 Welcome 
