@@ -10,8 +10,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
-pygmentsUseClasses: true
-assets.theme_color: #ffcc00  
+pygmentsUseClasses: true  
 minify:
     disableXML: true
     minifyOutput: true
@@ -43,10 +42,13 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
-    # author: ["Me", "You"] # multiple authors
+    description: "Abdelfattah M. S."
+    author: Abdelfattah M.
+    assets:
+      favicon: "https://abdelfattah.site/logo.ico"
+      theme_color: #ffcc00
 
+      
     homeInfoParams:
         Title: "AM Garden"
         Content: >
