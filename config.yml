@@ -11,7 +11,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-
+assets.theme_color: #ffcc00  
 minify:
     disableXML: true
     minifyOutput: true
