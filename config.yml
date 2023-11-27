@@ -1,0 +1,4 @@
+baseURL: 'http://hugo-quickstart-template.netlify.com'
+title: Abdelfattahs Digital Garden
+theme: PaperMod
+paginate: 5
