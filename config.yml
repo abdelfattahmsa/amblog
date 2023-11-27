@@ -61,6 +61,13 @@ params:
           url: "https://www.linkedin.com/in/abdelfattahmsa/"
         - name: twitter
           url: "https://twitter.com/abdelfattah_msa"
+        - name: behance
+        url: "https://www.behance.net/abdelfattahmsa"
+        - name: facebook
+        url: "https://www.facebook.com/abdelfattah.msa"
+        - name: researchgate
+        url: "https://www.researchgate.net/profile/Abdelfattah_Ms_Aboalfoutoh"
+        
 
 Displays a Scroll-to-Top button in right-bottom corner
 
