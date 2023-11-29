@@ -7,17 +7,17 @@
 
 <p align="center"> <a href="https://twitter.com/abdelfattah_msa" target="blank"><img src="https://img.shields.io/twitter/follow/abdelfattah_msa?logo=twitter&style=for-the-badge" alt="abdelfattah_msa" /></a> </p>
 
-- 🔭 I’m currently working on [theamtc.me](https://theamtc.me){:target="_blank"}
+- 🔭 I’m currently working on [theamtc.me](https://theamtc.me)
 
 - 🌱 I’m currently learning **JS, React, Python, AI & ML**
 
-- 👨‍💻 All of my projects are available at [abdelfattah.site](https://abdelfattah.site){:target="_blank"}
+- 👨‍💻 All of my projects are available at [abdelfattah.site](https://abdelfattah.site)
 
-- 📝 I regularly write articles on [blog.abdelfattah.site](https://blog.abdelfattah.site){:target="_blank"}
+- 📝 I regularly write articles on [blog.abdelfattah.site](https://blog.abdelfattah.site)
 
 - 📫 How to reach me **abdo@theamtc.me**
 
-- 📄 Know about my experiences [abdelfattah.site](https://abdelfattah.site){:target="_blank"}
+- 📄 Know about my experiences [abdelfattah.site](https://abdelfattah.site)
 
 - ⚡ Fun fact **I'm a big cars guy!**
 
