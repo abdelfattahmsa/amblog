@@ -1,9 +1,12 @@
 ---
 author: "Abdelfattah M. "
 title: "Introduction to the Imperfectionist Chronicles"
-date: "2023-12-30"
+date: "2024-2-15"
+description: "The future of technology and construction"
+Categories: ["Imperfectionist Chronicles"]
 ShowToc: true
 ShowBreadCrumbs: true
 ShowReadingTime: true
 
 ---
+
