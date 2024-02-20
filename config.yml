@@ -28,8 +28,8 @@ languages:
                 - name: Home
                   url: https://abdelfattah.site/
                   weight: 5
-                - name: Garden
-                  url: garden
+                - name: Research Archives
+                  url: tags/research-archives
                   weight: 10
                 - name: Search
                   url: search/
